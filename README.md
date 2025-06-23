@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan Mishra</h1>
-<h3 align="center">A Machine Learning Enthusias, a graphics Designer and a frontend Developer from India</h3>
+<h3 align="center">A Machine Learning Enthusiast, a graphics Designer and a frontend Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanmishra11" alt="ishanmishra11" /></a> </p>
 
